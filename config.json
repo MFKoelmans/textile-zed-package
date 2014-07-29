@@ -8,7 +8,7 @@
             ],
             commands: {
                 "Tools:Preview": {
-                    scriptUrl: "previewTextile.js"
+                    scriptUrl: "./previewTextile.js"
                 }
             },
             handlers: {
