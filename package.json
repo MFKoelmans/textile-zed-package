@@ -1,0 +1,10 @@
+{
+    "name": "Textile mode",
+    "uri": "gh:11684/textile-zed-package",
+    "version": "0.1",
+    "description": "Textile mode for Zed",
+    "files": [
+        "previewTextile.js",
+        "textile.js"
+    ]
+}

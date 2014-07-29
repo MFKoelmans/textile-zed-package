@@ -1,0 +1,21 @@
+{
+    modes: {
+       textile: {
+            name: "Textile",
+            highlighter: "ace/mode/textile",
+            extensions: [
+                "textile"
+            ],
+            commands: {
+                "Tools:Preview": {
+                    scriptUrl: "previewTextile.js"
+                }
+            },
+            handlers: {
+                preview: [
+                    "Tools:Preview"
+                ]
+            }
+        }
+    }
+}
